@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/sc9j5tskecbw/edsforum.com/
+    - export DEPLOYPATH=/home/sc9j5tskecbw/public_html/edsforum.com 
     - /bin/cp -R * $DEPLOYPATH
